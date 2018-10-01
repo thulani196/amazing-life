@@ -1,0 +1,22 @@
+{
+  "name": "amazing-life",
+  "version": "1.0.0",
+  "description": "Amazing life church project done in Node and React",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thulani196/amazing-life.git"
+  },
+  "author": "Thulani Tembo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thulani196/amazing-life/issues"
+  },
+  "homepage": "https://github.com/thulani196/amazing-life#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
